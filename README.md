@@ -2,9 +2,9 @@
 
 Digital Literacy Project
 Student Details
-Name: Sonu Kumar
-Registration Number: 25MEI10085
-Branch: INTEGRATED M.TECH Cybersecurity
+Name: SAKSHI DESHWAL 
+Registration Number: 25MIM10047
+Branch: INTEGRATED M.TECH AI
 University: VIT Bhopal University
 Course Code: CSE0001 – Digital Literacy
 
